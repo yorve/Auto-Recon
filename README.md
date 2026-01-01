@@ -1,0 +1,15 @@
+# Auto-Recon
+
+**Auto-Recon** es un script en Bash diseñado para automatizar tareas de reconimiento básico
+
+##  Descripción
+Esta herramienta facilita las tareas repetitivas. Actualmente permite:
+- Creación de directorio de trabajo
+- Escaneo de puertos de un objetivo
+- Escaneo de servicios, versiones y vulnerabilidades conocidas.
+
+##  Uso
+Para ejecutar el script, abre tu terminal y corre el siguiente comando:
+
+```bash
+./auto-recon.sh
