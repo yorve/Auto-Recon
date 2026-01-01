@@ -1,6 +1,6 @@
 # Auto-Recon
 
-**Auto-Recon** es un script en Bash diseñado para automatizar tareas de reconimiento básico
+**Auto-Recon** es un script en Bash diseñado para automatizar tareas de reconimiento básico en laboratorios de pentesting
 
 ##  Descripción
 Esta herramienta facilita las tareas repetitivas. Actualmente permite:
