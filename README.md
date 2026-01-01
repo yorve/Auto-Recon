@@ -7,6 +7,7 @@ Esta herramienta facilita las tareas repetitivas. Actualmente permite:
 - Creación de directorio de trabajo
 - Escaneo de puertos de un objetivo
 - Escaneo de servicios, versiones y vulnerabilidades conocidas.
+- Escaneo directorios web
 
 ##  Uso
 Para ejecutar el script, asegurate de darle permisos de ejecucion `chmod +x` , una vez aplicado abre tu terminal y corre el siguiente comando:
@@ -14,3 +15,8 @@ Para ejecutar el script, asegurate de darle permisos de ejecucion `chmod +x` , u
 ```bash
 ./auto-recon.sh
 
+herramientas necesarias que debes tener:
+nmap
+whatweb
+nikto
+gobuster
